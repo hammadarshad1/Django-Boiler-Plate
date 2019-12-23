@@ -1,1 +1,1 @@
-# Django Boiler PLate
+# Django Boiler Plate

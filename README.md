@@ -1,17 +1,17 @@
 # Django Boiler Plate
 
-##Enviroment Setup:
+## Enviroment Setup:
 ```
 $ git clone https://www.github.com/hammadarshad1/Django-Boiler-Plate
 $ python3 -m venv venv
 ```
 
-##Installation:
+## Installation:
 ```
 $ pip install -r requirements.txt
 ```
 
-##Usage
+## Usage
 ```
 $ python manage.py migrate
 $ python manage.py createsuperuser

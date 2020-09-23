@@ -4,6 +4,7 @@
 ```
 $ git clone https://www.github.com/hammadarshad1/Django-Boiler-Plate
 $ python3 -m venv venv
+$ source venv/bin/activate
 ```
 
 ## Installation:
